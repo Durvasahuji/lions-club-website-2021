@@ -1,0 +1,92 @@
+body
+{
+    background-color: skyblue;
+    font-family:Century;
+}
+ 
+.g
+{
+    background-color:skyblue;
+}
+
+
+.nav
+{
+    background-color:navy;
+    padding:16px;
+}
+
+.nav a
+{
+    padding: 10px;
+    text-decoration:none;
+    color:white;
+    font-size:19px;
+}
+
+.info
+{
+    font-family:Century;
+}
+
+.main
+{
+    
+    background-color:grey;
+    padding:14px;
+    
+}
+
+.main a
+{
+    text-decoration:none;
+    padding:14px;
+    color:black;
+
+
+}
+
+
+.main a:hover
+{
+    background-color:black;
+    color:white;
+    
+}
+.nav a:hover
+{
+    background-color:white;
+    color:black;
+}
+
+h5
+{
+    font-size:40px;
+    float:left;
+    text-shadow: 2px 2px 5px blue;
+}
+
+p{
+    font-size:20px;
+}
+
+.nave
+{
+    background-color:black;
+    padding:13px;
+}
+
+.nave a
+{
+    color:white;
+    text-decoration:none;
+    padding:12px;
+}
+
+.nave a:hover
+{
+    background-color:white;
+    color:black;
+}
+
+
